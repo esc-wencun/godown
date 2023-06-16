@@ -1,0 +1,5 @@
+<res>
+   <item name="sounds/hit0.mp3" type="SoundNode" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="comp/goodsProtect_1.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="comp/goodsScore_1.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+</res>

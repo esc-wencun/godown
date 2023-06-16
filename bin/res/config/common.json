@@ -1,0 +1,14 @@
+{
+  "createBoardInterval": 20,
+  "boardSpeed": 3.5,
+  "maxBoardSpeed": 30,
+  "addBoardSpeed": 0.4,
+  "addBoardLevelInterval": 10,
+  "maxHp": 10,
+  "goodsHappen": 10,
+  "manSpeed": 10,
+  "jumpSpeed": 25,
+  "jumpFrame": 3,
+  "protectFrame": 270,
+  "hurtFrame": 100
+}

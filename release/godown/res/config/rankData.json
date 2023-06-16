@@ -1,0 +1,83 @@
+[
+  {
+    "begin": 1,
+    "end": 15,
+    "percent": 10,
+    "startPercent": 1,
+    "rank": 5000000,
+    "title": "倔强青铜"
+  },
+  {
+    "begin": 15,
+    "end": 20,
+    "percent": 20,
+    "startPercent": 10,
+    "rank": 4000000,
+    "title": "秩序白银"
+  },
+  {
+    "begin": 20,
+    "end": 36,
+    "percent": 30,
+    "startPercent": 20,
+    "rank": 3000000,
+    "title": "荣耀黄金"
+  },
+  {
+    "begin": 35,
+    "end": 50,
+    "percent": 40,
+    "startPercent": 30,
+    "rank": 2000000,
+    "title": "尊贵铂金"
+  },
+  {
+    "begin": 50,
+    "end": 100,
+    "percent": 50,
+    "startPercent": 40,
+    "rank": 100000,
+    "title": "永恒钻石"
+  },
+  {
+    "begin": 100,
+    "end": 200,
+    "percent": 60,
+    "startPercent": 50,
+    "rank": 90000,
+    "title": "至尊星耀"
+  },
+  {
+    "begin": 200,
+    "end": 500,
+    "percent": 70,
+    "startPercent": 60,
+    "rank": 80000,
+    "title": "最强王者"
+  },
+  {
+    "begin": 500,
+    "end": 1000,
+    "percent": 80,
+    "startPercent": 70,
+    "rank": 1000,
+    "title": "最强王者"
+  },
+  {
+    "begin": 1000,
+    "end": 10000,
+    "percent": 90,
+    "startPercent": 70,
+    "rank": 100,
+    "title": "最强王者"
+  },
+  {
+    "begin": 10000,
+    "end": 1000000,
+    "percent": 100,
+    "startPercent": 80,
+    "rank": 10,
+    "title": "最强王者"
+  }
+]
+
